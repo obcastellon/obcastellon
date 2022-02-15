@@ -1,0 +1,33 @@
+/* Colors and fonts */
+body {
+	background: rgb(9 68 142);
+ color:#ff7b0a;
+ font-family: 'Ubuntu';
+  font-size: 30px;
+text-align: center;}
+
+h1{
+font-family:Montserrat,sans-serif; }
+
+h2 {color: black;
+font-family:Montserrat, sans-serif;
+padding-left: 0px;}
+
+
+
+/* custum design with class */
+.container {
+    width: 600px;
+    margin: 40px auto;}
+
+.ul {
+padding-left: 0px;}
+
+
+.list-inline i {
+    font-size: 200px;
+padding-left: 0px;
+padding-right: 40px;
+color :#ff7b0a;
+}
+
